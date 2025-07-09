@@ -1,0 +1,17 @@
+{
+  "name": "generate-licenses",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "moment": "^2.30.1",
+    "uuid": "^11.1.0"
+  }
+}
